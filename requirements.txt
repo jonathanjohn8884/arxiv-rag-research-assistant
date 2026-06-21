@@ -1,0 +1,26 @@
+# Core LLM & RAG
+langchain>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+langsmith>=0.1.0
+openai>=1.30.0
+
+# Vector store
+faiss-cpu>=1.8.0
+
+# PDF processing
+pypdf>=4.0.0
+
+# Web UI
+gradio>=4.0.0
+
+# Configuration
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# Utilities
+numpy>=1.26.0
+tqdm>=4.66.0
